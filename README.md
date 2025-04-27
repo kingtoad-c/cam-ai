@@ -59,7 +59,6 @@ All files needed are packed and ready:
 - `age_deploy.prototxt`
 - `age_net.caffemodel`
 - Object detection models
-- Optional sample images
 
 ---
 

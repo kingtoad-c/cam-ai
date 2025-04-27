@@ -53,6 +53,7 @@ All files needed are packed and ready:
 👉 [**Click here to Download VisionWeaver**](https://drive.google.com/file/d/1r0LhiuuqOjDQd34q3g7I9WlrvQ6reLUY/view?usp=sharing)
 
 ✅ Included in the ZIP:
+- `run.bat`
 - `main.py`
 - `shape_predictor_68_face_landmarks.dat`
 - `age_deploy.prototxt`
@@ -68,3 +69,17 @@ Install required libraries:
 
 ```
 pip install opencv-python dlib numpy
+
+```
+
+# ▶ Run
+
+To run the program just run the file:
+- `run.bat`
+
+or if on Linux:
+```
+python main.py
+```
+
+

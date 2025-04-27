@@ -72,7 +72,9 @@ pip install opencv-python dlib numpy
 
 ```
 
-# ▶ Run
+---
+
+### ▶ Run
 
 To run the program just run the file:
 - `run.bat`
